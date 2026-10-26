@@ -1,0 +1,14 @@
+## Build output
+bin/
+obj/
+
+## Tool runtime artifacts
+.carrier-index/
+out/
+
+## User-specific / secrets
+*.user
+secrets.json
+
+## IDE
+.vs/

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CarrierOnboarding.Cli/CarrierOnboarding.Cli.csproj" />
+    <Project Path="src/CarrierOnboarding.Core/CarrierOnboarding.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CarrierOnboarding.Tests/CarrierOnboarding.Tests.csproj" />
+  </Folder>
+</Solution>
