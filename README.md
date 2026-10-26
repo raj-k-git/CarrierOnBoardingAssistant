@@ -7,6 +7,11 @@ follows our existing PBServices code patterns.
 > ⚠️ This tool **never deploys anything**. It only writes draft files and reports for an
 > engineer to review. Every generated file is a starting point, not production code.
 
+## Documentation
+
+- **[HOW_TO_RUN.md](HOW_TO_RUN.md)** — setup and step-by-step commands to run the tool.
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** — how it works, data-flow diagrams, and the tech behind it.
+
 ## Solution layout
 
 ```
